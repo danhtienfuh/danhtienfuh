@@ -1,4 +1,6 @@
-#                                           👋 Hi there, I'm Danh Tiến  
+<p align="center">
+  👋 Hi there, I'm Danh Tiến
+</p>
 
 🌱 Currently learning **Web Development**  
 💡 Goal: Build my personal website and real projects 🚀  
