@@ -15,7 +15,7 @@
 ---
 <img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/refs/heads/main/assets/rainbow-superthin.webp" width="100%" />
 
-##  Social Media ![social media](https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif)
+![social media](https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif) ##  Social Media 
 
 <p align="center">
   <a href="https://linkedin.com/in/yourusername" target="_blank">
