@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Xin chào, mình là Danh Tiến  
 
-<!--
-**danhtienfuh/danhtienfuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Hiện mình đang học về **Web Development**  
+💡 Mục tiêu: Tạo được website cá nhân và dự án riêng 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Kỹ năng đang học
+- HTML / CSS / JavaScript  
+- GitHub & Git  
+- Sẽ học thêm React, Node.js  
+
+---
+
+## 📫 Liên hệ
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  
+
+---
+
+⭐️ From [danhtienfuh](https://github.com/danhtienfuh)
