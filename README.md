@@ -1,19 +1,19 @@
-# 👋 Xin chào, mình là Danh Tiến  
+# 👋 Hi there, I'm Danh Tiến  
 
-🌱 Hiện mình đang học về **Web Development**  
-💡 Mục tiêu: Tạo được website cá nhân và dự án riêng 🚀  
+🌱 Currently learning **Web Development**  
+💡 Goal: Build my personal website and real projects 🚀  
 
 ---
 
-## 🛠 Kỹ năng đang học
+## 🛠 Skills I'm Learning
 - HTML / CSS / JavaScript  
-- GitHub & Git  
-- Sẽ học thêm React, Node.js  
+- Git & GitHub  
+- Planning to learn React, Node.js  
 
 ---
 
-## 📫 Liên hệ
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/your-profile](https://www.facebook.com/nguyen.danh.tien.801432)) 
+## 📫 Contact Me
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nguyen.danh.tien.801432)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyendanhtien890@gmail.com)  
 
 ---
