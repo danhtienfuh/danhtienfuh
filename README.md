@@ -3,7 +3,11 @@
 <h1 id="top" align="center">Hi, I'm Danh Tiến <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
 
 🌱 Currently learning **Web Development**  
-💡 Goal: Build my personal website and real projects 🚀  
+💡 Goals:  
+- Build my personal website and real projects 🚀  
+- Become a **Fullstack Developer** 🌐  
+- Pursue my dream as a **Game Developer** 🎮  
+
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
